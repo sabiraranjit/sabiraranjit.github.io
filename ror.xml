@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.sabiraranjit.com.np/</title>
+  <link>http://www.sabiraranjit.com.np/</link>
+
+<item>
+     <link>https://www.sabiraranjit.com.np/</link>
+     <title>Sabira Ranjit | HR Professional | Hospitality Sector</title>
+     <description>An HR and L&amp;D professional having experience in HR department for more than one and a half decade.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
